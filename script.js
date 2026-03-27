@@ -124,6 +124,12 @@ const chapters = [
         image: "images/bitwards.png",
         alt: "Bitwards",
         caption: "No me contestaron, pero bueno, le echaria muchas ganas. Te puedo poner desde un banho, una lampara, algo sé de robotica, informatic industrial,  y puedo correr un centro de datos con aplicaciones web distribuidas. Por cierto, si sabes que no me dedico a hacer paginas web cierto? :P "
+      },
+      {
+        title: "Sí me contestaron",
+        image: "images/bitwards_2.png",
+        alt: "Bitwards second image",
+        caption: "Recien salido del horno, al final sí me contestaron :), al menos para platicarlo!"
       }
     ]
   }
